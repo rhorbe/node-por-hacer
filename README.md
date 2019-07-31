@@ -7,4 +7,6 @@ Recuerden instalar los paquetes de nood
 
 ```
 
+npm install
+
 ```
